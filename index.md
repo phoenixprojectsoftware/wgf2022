@@ -10,6 +10,7 @@ The Phoenix Project Software have produced a repackaged version of GHL by thedeb
 
 # 2. *Half-Life Rally*
 1.[ Download **and install** HLRally 1.0.](files/hlrally/hlr-b10.exe)
+
 2. [Download **and install** HLRally 1.1.](files/hlrally/hlr-b10-11.exe)
 
 You are now ready to play.
